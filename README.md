@@ -20,7 +20,7 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 ## 🎯 *Data Science Competitions | 數據競賽成果*
 
 - ✨ **Top 5%** in AI CUP 2025: Table Tennis Smart Racket Classification
-  Built XGBoost + Voting models on time-series sensor data, incorporating FFT and ADASYN techniques. Collaborated with a cross-disciplinary team, half of whom came from non-statistical backgrounds, and led the modeling strategy and communication.
+  Built XGBoost + Voting models on time-series sensor data, incorporating FFT and ADASYN techniques. Collaborated with a cross-disciplinary team, half of whom came from non-statistical backgrounds, and led the modeling strategy and communication.  
   於 AI CUP 桌球競賽中排名前 5%，主導使用 FFT、小波、小樣本增強與 XGBoost+Voting 架構達成穩定成效，並與多元背景隊友合作（其中約一半非統計科學背景），展現良好的團隊協作與溝通能力。
 
 - 🌟 **Top 3%** in SinoPac AI GO 2025: Soaring Stock Prediction Challenge  
