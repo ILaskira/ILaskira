@@ -33,9 +33,9 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 
 ## ⚙️ *Skills | 技能*
 
-**Languages**: Python, R  
-**Courses Taken**: Deep Learning, Machine Learning, Time Series Analysis, Applied Multivariate Analysis, Categorical Data Analysis  
-**ML Techniques**: Time Series Forecasting (LSTM, AR models), Tree-based Models (XGBoost, Random Forest), Model Selection (Lasso, Forward/Backward Selection, XGBoost Importance, Random Forest Importance, Permutation Importance), Model Ensembling (Stacking, Voting), Imbalanced Learning (ADASYN, SMOTE)  
+- **Languages**: Python, R  
+- **Courses Taken**: Deep Learning, Machine Learning, Time Series Analysis, Applied Multivariate Analysis, Categorical Data Analysis  
+- **ML Techniques**: Time Series Forecasting (LSTM, AR models), Tree-based Models (XGBoost, Random Forest), Model Selection (Lasso, Forward/Backward Selection, XGBoost Importance, Random Forest Importance, Permutation Importance), Model Ensembling (Stacking, Voting), Imbalanced Learning (ADASYN, SMOTE)  
 
 
 ## 📂 *Selected Projects | 精選專案*
