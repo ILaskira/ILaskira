@@ -38,15 +38,15 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 
 ## 📂 *Selected Projects | 精選專案*
 
-- [📈 Stock-Price-Prediction](https://github.com/ILaskira/Stock-Price-Prediction)  
+- [📈 Stock Price Prediction](https://github.com/ILaskira/Stock-Price-Prediction)  
   Applied LSTM to predict whether the stock price would rise or fall the next day, and constructed a 95% confidence interval using GARCH-estimated volatility. Achieved 80% directional accuracy.  
   📌 中文摘要：使用 LSTM 預測明日股價漲跌方向，並結合 GARCH 模型估計波動度、建構 95% 預測區間，漲跌預測準確率達 80%。
 
-- [🏓 Table Tennis Smart Racket Classification (AI CUP 2025)](https://github.com/ILaskira)  
+- [🏓 Table Tennis Smart Racket Classification (AI CUP 2025)](https://github.com/ILaskira/Table-Tennis-Smart-Racket-Classification)  
   Performed feature extraction using FFT & wavelets, handled class imbalance with ADASYN, and applied XGBoost with ensemble voting. Final result ranked in the top 5% of the public leaderboard.  
   📌 中文摘要：針對 AI CUP 桌球資料，整合小波與傅立葉特徵，搭配 ADASYN 處理不平衡問題，以集成模型完成分類，最終成績於公開組排名前 5%。
 
-- [📊 Soaring Stock Prediction Challenge (SinoPac AI GO 2025)](https://github.com/ILaskira/Pred-Soaring-Stocks)  
+- [📊 Soaring Stock Prediction Challenge (SinoPac AI GO 2025)](https://github.com/ILaskira/Soaring-Stock-Prediction-Challenge)  
   Developed a feature selection and stacking framework to handle a high-dimensional stock dataset. From over 10,000 variables, selected 23 key features—approximately one-tenth the number used by typical competitors—via multiple feature importance evaluation techniques. The final model ranked in the top 3% of the public leaderboard.  
   📌 中文摘要：參與「2025 永豐 AI GO 飆股預測競賽」，結合多種特徵重要性評估方式，從上萬個變數中精選出 23 個關鍵特徵（約為其他參賽者的十分之一），並透過 stacking 架構整合模型，最終於公開組排名前 3%。
 
