@@ -17,6 +17,8 @@ I'm a passionate data scientist with strong training in statistics and a proven 
   Used log-returns and GARCH-estimated volatility to construct confidence intervals, and applied LSTM to predict the direction of the next day's stock movement. Achieved 80% directional accuracy.  
   與企業合作開發股價預測模型，使用 LSTM 預測明日股價漲跌方向，並結合 GARCH 模型估計波動度、建構 95% 預測區間，漲跌預測準確率達 80%。負責建模流程設計與成果彙整彙報。
 
+相關細節可見下方的「📂 Selected Projects | 精選專案」。
+
 ## 🎯 *Data Science Competitions | 數據競賽成果*
 
 - ✨ **Top 5%** in AI CUP 2025: Table Tennis Smart Racket Classification
@@ -27,7 +29,7 @@ I'm a passionate data scientist with strong training in statistics and a proven 
   From over 10,000 variables, selected 23 key features by combining multiple feature importance evaluation methods and taking their intersection. Applied ADASYN to address class imbalance, and integrated models using a stacking framework. Designed a one-pass SOP that effectively tackled two major challenges in the competition.  
   於 2025 永豐銀行 AI GO 飆股預測競賽排名前 3%，結合多種變數重要性評估方式並取其交集，從上萬個變數中精選出 23 個關鍵特徵，使用 ADASYN 處理類別不平衡，並以 stacking 架構整合多模型。進一步提出一套 SOP，有效且一次性地解決競賽中所面對的兩大挑戰。
 
-
+相關細節可見下方的「📂 Selected Projects | 精選專案」。
 
 ## ⚙️ *Skills | 技能*
 
