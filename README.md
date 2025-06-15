@@ -9,6 +9,7 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 ## 📄 Resume | 個人履歷
 
 👉 [Download My Resume (PDF)](./吳振瑋數據履歷第二版.pdf)
+
 ---
 
 ## 🎓 *Academic Background | 學歷背景*
