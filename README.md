@@ -4,10 +4,6 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 
 我是一位對資料科學充滿熱情的統計背景研究生，擁有多場數據競賽的實作經驗。研究興趣涵蓋時間序列預測、股價報酬建模，以及運動感測資料的分類問題，並樂於在團隊中整合模型設計與報告溝通。
 
-<p align="center">
-  <img src="吳振瑋_全身照.jpg" width="180">
-</p>
-
 ---
 
 ## 📄 *Resume | 個人履歷*
