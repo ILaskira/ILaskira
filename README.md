@@ -50,7 +50,7 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 
 ## 📂 *Selected Projects | 精選專案*
 
-- [📈 Stock Price Prediction(Industry Collaboration)](https://github.com/ILaskira/Stock-Price-Prediction)  
+- [📈 Stock Price Prediction (Industry Collaboration)](https://github.com/ILaskira/Stock-Price-Prediction)  
   Applied LSTM to predict whether the stock price would rise or fall the next day, and constructed a 95% confidence interval using GARCH-estimated volatility. Achieved 80% directional accuracy.  
   📌 中文摘要：使用 LSTM 預測明日股價漲跌方向，並結合 GARCH 模型估計波動度、建構 95% 預測區間，漲跌預測準確率達 80%。
 
