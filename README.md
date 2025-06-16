@@ -20,7 +20,7 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 ## 🤝 *Industry Collaboration | 產學合作經驗*
 
 - 🔍 **Stock-Price-Prediction** with Industry Partner (2024)  
-  Used log-returns and GARCH-estimated volatility to construct confidence intervals, and collaborated with UMC (United Microelectronics Corporation) to develop an LSTM-based stock prediction model. Designed and implemented the full modeling pipeline, achieving 80% directional accuracy in next-day stock movement forecasting.
+  Used log-returns and GARCH-estimated volatility to construct confidence intervals, and collaborated with UMC (United Microelectronics Corporation) to develop an LSTM-based stock prediction model. Designed and implemented the full modeling pipeline, achieving 80% directional accuracy in next-day stock movement forecasting.  
   與聯華電子（UMC）合作開發股價預測模型，使用 LSTM 預測次日股價漲跌方向，結合 GARCH 模型估計波動度並建構 95% 預測區間。負責完整建模流程設計與實作，漲跌預測準確率達 80%。
 
 
