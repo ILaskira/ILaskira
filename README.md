@@ -25,23 +25,21 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 
   參與與聯華電子（UMC）合作之股價預測團隊專案，負責設計與實作 LSTM 模型，結合 log-return 與 GARCH 模型建構 95% 預測區間。參與企業端技術討論，並負責部分成果彙整與簡報，次日股價漲跌預測準確率達 80%。
 
-
-
-
-
-相關細節可見下方的「📂 Selected Projects | 精選專案」。
+**相關細節可見下方的「📂 Selected Projects | 精選專案」。**
 
 ## 🎯 *Data Science Competitions | 數據競賽成果*
 
 - ✨ **Top 5%** in AI CUP 2025: Table Tennis Smart Racket Classification
   Built XGBoost + Voting models on time-series sensor data, incorporating FFT and ADASYN techniques. Collaborated with a cross-disciplinary team, half of whom came from non-statistical backgrounds, and led the modeling strategy and communication.  
+
   於 AI CUP 桌球競賽中排名前 5%，主導使用 FFT、小波、小樣本增強與 XGBoost+Voting 架構達成穩定成效，並與多元背景隊友合作（其中約一半非統計科學背景），展現良好的團隊協作與溝通能力。
 
 - 🌟 **Top 3%** in SinoPac AI GO 2025: Soaring Stock Prediction Challenge  
   From over 10,000 variables, selected 23 key features by combining multiple feature importance evaluation methods and taking their intersection. Applied ADASYN to address class imbalance, and integrated models using a stacking framework. Designed a one-pass SOP that effectively tackled two major challenges in the competition.  
+
   於 2025 永豐銀行 AI GO 飆股預測競賽排名前 3%，結合多種變數重要性評估方式並取其交集，從上萬個變數中精選出 23 個關鍵特徵，使用 ADASYN 處理類別不平衡，並以 stacking 架構整合多模型。進一步提出一套 SOP，有效且一次性地解決競賽中所面對的兩大挑戰。
 
-相關細節可見下方的「📂 Selected Projects | 精選專案」。
+**相關細節可見下方的「📂 Selected Projects | 精選專案」。**
 
 ## ⚙️ *Skills | 技能*
 
