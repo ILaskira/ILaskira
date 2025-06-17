@@ -62,6 +62,8 @@ I'm a passionate data scientist with strong training in statistics and a proven 
   Performed feature extraction using FFT & wavelets, handled class imbalance with ADASYN, and applied XGBoost with ensemble voting. Final result ranked in the top 5% of the public leaderboard.  
   📌 中文摘要：針對 AI CUP 桌球資料，整合小波與傅立葉特徵，搭配 ADASYN 處理不平衡問題，以集成模型完成分類，最終成績於公開組排名前 5%。
 
+## 📂 *Other Projects | 其他專案*
+
 ## 📬 *Let's Connect | 聯絡我*
 
 - Email: [a10155105105@gmail.com](mailto:a10155105105@gmail.com)
