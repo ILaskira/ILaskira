@@ -64,7 +64,7 @@ I'm a passionate data scientist with strong training in statistics and a proven 
 
 ## 📂 *Other Projects | 其他專案*
 
-- [🎮 LOL Match Outcome Prediction](https://github.com/ILaskira/LOL-How-to-Win-.github.io)  
+- [🎮 LOL How to Win?](https://github.com/ILaskira/LOL-How-to-Win-.github.io)  
   Developed a predictive model for League of Legends tournament outcomes. Achieved 73% accuracy, outperforming baseline by 23%, and identified that only two key variables are sufficient for quick win-loss prediction.  
   📌 中文摘要：開發《英雄聯盟》比賽預測模型，準確率達 73%，相較基準提升 23%，並歸納出僅需兩個關鍵變數組合即可快速預測勝負。
 
