@@ -29,11 +29,13 @@
 ## 🎯 Competition Achievements | 數據競賽
 
 ### 🌟 永豐銀行 AI GO 飆股預測競賽 | Top 3%
+**Role: Team Leader**
 - 處理上萬個維度的高維數據，利用 **Intersection of Feature Importances**（XGB, Permutation 等）精選出 23 個關鍵特徵。
 - 使用 **ADASYN** 處理類別不平衡問題，並以 **Stacking** 架構整合異質模型。
 - 提出標準化 SOP，一次性解決資料維度過高與Stacking缺點兩大挑戰。
 
 ### ✨ AI CUP 桌球智慧球拍分類 | Top 5%
+**Role: Team Leader**
 - 主導模型開發策略，結合 **FFT (傅立葉轉換)** 與小波變換進行特徵萃取。
 - 帶領跨領域團隊（含非統計背景成員），有效溝通統計分析結果並達成建模共識。
 
