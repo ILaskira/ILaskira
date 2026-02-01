@@ -14,11 +14,6 @@
 
 ---
 
-## 📄 *Resume | 個人履歷*
-👉 [Download My Resume (PDF)](./吳振瑋數據履歷第二版.pdf)
-
----
-
 ## 🤝 *Professional Experience | 專業經驗*
 
 ### 🔍 *聯華電子 (UMC) 產學合作專案 | Stock Price Prediction*
@@ -73,3 +68,4 @@
 
 - **Email**: [a10155105105@gmail.com](mailto:a10155105105@gmail.com)
 - **GitHub**: [@ILaskira](https://github.com/ILaskira)
+- **Resume**: [📄 下載完整中文履歷 (PDF)](./吳振瑋數據履歷第二版.pdf)
