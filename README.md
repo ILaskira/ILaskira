@@ -34,15 +34,16 @@
 ## 🎯 *Competition Achievements | 數據競賽*
 
 ### 🌟 *永豐銀行 AI GO 飆股預測競賽 | Top 3%*
-**Role: Team Leader**
-- 處理上萬個維度的高維數據，利用 **Intersection of Feature Importances**（XGB, Permutation 等）精選出 23 個關鍵特徵。
-- 使用 **ADASYN** 處理類別不平衡問題，並以 **Stacking** 架構整合異質模型。
-- 提出標準化 SOP，一次性解決資料維度過高與Stacking缺點兩大挑戰。
+**Role: Team Leader (團隊隊長)**
+- **多樣性整合策略 (Diversity-Driven Stacking)**：主導開發一套標準化 SOP，透過**異質化配置（Heterogeneous Configuration）**——從演算法種類、特徵子集、到損失函數的差異化設計，確保基礎模型間具備強互補性，有效解決 Stacking 常見的同質性過高與過擬合風險。
+- **高維特徵萃取**：結合多種特徵重要性指標（XGB, Permutation Importance）取其交集，成功將萬級維度精煉至 23 個關鍵特徵，極大化運算效率。
+- **最終成果**：帶領團隊達成前 3% 佳績。
 
 ### ✨ *AI CUP 桌球智慧球拍分類 | Top 5%*
-**Role: Team Leader**
-- 主導模型開發策略，結合 **FFT (傅立葉轉換)** 與小波變換進行特徵萃取。
-- 帶領跨領域團隊（含非統計背景成員），有效溝通統計分析結果並達成建模共識。
+**Role: Team Leader (團隊隊長)**
+- **目標函數優化 Voting (Metric-Oriented Voting)**：針對競賽特定的評分機制開發**客製化加權投票規則**，透過數學邏輯將模型預測結果與積分算法最佳化對接，使最終成效優於傳統準確率模型。
+- **跨領域溝通與協作**：帶領包含非統計背景成員的跨領域團隊，將複雜的訊號處理（FFT, 小波變換）與統計分析結果轉譯為團隊共識。
+- **最終成果**：穩定分類高頻感測數據，排名公開組前 5%。
 
 ---
 
