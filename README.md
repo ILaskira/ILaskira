@@ -64,5 +64,4 @@
 ## 📬 Contact | 聯絡資訊
 
 - **Email**: [a10155105105@gmail.com](mailto:a10155105105@gmail.com)
-% - **LinkedIn**: [Your LinkedIn Profile URL] (建議加上)
 - **GitHub**: [@ILaskira](https://github.com/ILaskira)
