@@ -68,4 +68,4 @@
 
 - **Email**: [a10155105105@gmail.com](mailto:a10155105105@gmail.com)
 - **GitHub**: [@ILaskira](https://github.com/ILaskira)
-- **Resume**: [📄 下載完整中文履歷 (PDF)](./吳振瑋數據履歷第二版.pdf)
+- **Resume**: [📄 下載完整中文履歷 (PDF)](./吳振瑋數據履歷.pdf)
