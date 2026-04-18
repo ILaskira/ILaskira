@@ -46,7 +46,7 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, SQL, R |
+| **Languages** | Python, SQL, R, Power BI |
 | **ML/DL** | LSTM, XGBoost, Random Forest, Stacking, Voting, ADASYN/SMOTE |
 | **Statistics** | Time Series Analysis, Multivariate Analysis, Categorical Data, Residual Diagnostics |
 | **Tools** | Git, Pandas, Scikit-learn, PyTorch |
