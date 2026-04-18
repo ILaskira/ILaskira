@@ -45,12 +45,9 @@
 
 ## 🤖 *Self-Initiated Project | 個人實作專案*
 
-### 📡 [LLM 技術情報自動化摘要系統](https://github.com/ILaskira/LLM-News-Automation)
+### 📡 [LLM 技術情報自動化摘要系統]
 > **整合 n8n 與 Gemini，打造高效的 AI 趨勢追蹤工具**
 
-<div align="center">
-  <img src="image_90fa2f.png" alt="LLM News System" width="80%">
-</div>
 
 - **效率提升**：利用 **n8n** 建立自動化管線，每日節省手動檢索與閱讀時間約 **15 分鐘**。
 - **LLM 應用**：整合 **Gemini** 進行語意分析與多文本摘要，並透過 **LINE API** 實現每日精準技術情報推播。
