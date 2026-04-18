@@ -43,15 +43,22 @@
 
 ---
 
-## 🤖 *Self-Initiated Project | 個人實作專案*
+# 🤖 AI-Powered News Orchestrator
+> **基於 n8n 與 Gemini 的自動化技術情報分析系統**
 
-### 📡 [LLM 技術情報自動化摘要系統]
-> **整合 n8n 與 Gemini，打造高效的 AI 趨勢追蹤工具**
+本專案透過 n8n 低代碼平台編排自動化管線，實現從 RSS 新聞抓取、LLM 語義摘要到即時訊息推播的完整鏈路。
 
+## 🌟 技術特點
+- **數據預處理優化**：利用 JavaScript `.map()` 函數將複雜的 XML 物件轉換為純文字列表，有效解決 LLM 無法直接解析 `[object Object]` 的問題。
+- **Agentic Workflow**：整合 Gemini 1.5 系列模型，透過動態 Prompt 實現高品質的內容精選與摘要。
+- **高可用性設計**：針對 API 頻率限制 (Quota) 導入自動重試機制，確保系統在不穩定網路環境下的魯棒性。
 
-- **效率提升**：利用 **n8n** 建立自動化管線，每日節省手動檢索與閱讀時間約 **15 分鐘**。
-- **LLM 應用**：整合 **Gemini** 進行語意分析與多文本摘要，並透過 **LINE API** 實現每日精準技術情報推播。
-- **技術要點**：工作流編排 (Workflow Orchestration)、Prompt Engineering、API 整合開發。
+## 🛠️ 工作流架構
+1. **Manual/Schedule Trigger**：啟動自動化任務。
+2. **HTTP Request**：從 Google News RSS 獲取最新 AI 技術新聞。
+3. **XML Parser**：將原始 XML 轉換為結構化 JSON。
+4. **Gemini AI Agent**：進行語義分析、精選 Top 2 重要新聞。
+5. **LINE Messaging API**：將處理後的結果即時推送至行動裝置。
 
 ---
 
