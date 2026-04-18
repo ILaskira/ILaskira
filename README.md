@@ -40,16 +40,33 @@
 - **跨領域溝通與協作**：帶領包含非統計背景成員的跨領域團隊，將複雜的訊號處理（FFT, 小波變換）與統計分析結果轉譯為團隊共識。
 - **最終成果**：穩定分類高頻感測數據，排名公開組前 5%。
 
+
+---
+
+## 🤖 *Self-Initiated Project | 個人實作專案*
+
+### 📡 [LLM 技術情報自動化摘要系統](https://github.com/ILaskira/LLM-News-Automation)
+> **整合 n8n 與 Gemini，打造高效的 AI 趨勢追蹤工具**
+
+<div align="center">
+  <img src="image_90fa2f.png" alt="LLM News System" width="80%">
+</div>
+
+- **效率提升**：利用 **n8n** 建立自動化管線，每日節省手動檢索與閱讀時間約 **15 分鐘**。
+- **LLM 應用**：整合 **Gemini** 進行語意分析與多文本摘要，並透過 **LINE API** 實現每日精準技術情報推播。
+- **技術要點**：工作流編排 (Workflow Orchestration)、Prompt Engineering、API 整合開發。
+
 ---
 
 ## 🛠 *Skills & Tools | 技術棧*
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, SQL, R, Power BI |
-| **ML/DL** | LSTM, XGBoost, Random Forest, Stacking, Voting, ADASYN/SMOTE |
-| **Statistics** | Time Series Analysis, Multivariate Analysis, Categorical Data, Residual Diagnostics |
-| **Tools** | Git, Pandas, Scikit-learn, PyTorch |
+| **Languages** | Python (Pandas, Scikit-learn), **SQL (Basic Syntax & Joins)**, R |
+| **AI & Automation** | **LLM Application (Gemini)**, **n8n Workflow**, **LINE API** |
+| **ML / DL** | LSTM, XGBoost, Random Forest, Stacking, Ensemble Learning |
+| **Statistics** | Time Series Analysis, Multivariate Analysis, Financial Mathematics |
+| **Data Viz & Tools** | **Power BI**, Git |
 
 ---
 
@@ -63,6 +80,7 @@
 | **League of Legends Win Prediction** | Feature Engineering, Classification | [🔗 GitHub](https://github.com/ILaskira/LOL-How-to-Win-.github.io) |
 
 ---
+
 
 ## 📬 *Contact | 聯絡資訊*
 
