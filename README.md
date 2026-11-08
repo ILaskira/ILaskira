@@ -126,7 +126,7 @@
 | **Stock Price Forecasting (UMC)** | LSTM, GARCH, Prediction Interval | [🔗 GitHub](https://github.com/ILaskira/Stock-Price-Prediction) |
 | **SinoPac Soaring Stock Prediction** | High-Dimensional Feature Selection, Stacking | [🔗 GitHub](https://github.com/ILaskira/Soaring-Stock-Prediction-Challenge) |
 | **AI CUP Table Tennis Classification** | FFT, Wavelet, XGBoost Ensemble | [🔗 GitHub](https://github.com/ILaskira/Table-Tennis-Smart-Racket-Classification) |
-| **ESG Commitment & Evidence Analysis** | MacBERT, PyTorch, Multi-Task NLP | Top 19% |
+| **ESG Commitment & Evidence Analysis** | MacBERT, PyTorch, Multi-Task NLP | [🔗 GitHub](https://github.com/ILaskira/ESG-LLM-competition) |
 | **League of Legends Win Prediction** | Feature Engineering, Classification | [🔗 GitHub](https://github.com/ILaskira/LOL-How-to-Win-.github.io) |
 
 ---
